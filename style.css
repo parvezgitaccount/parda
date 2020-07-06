@@ -1,0 +1,65 @@
+.container {
+    margin-bottom: 100px;
+}
+
+.parvez {
+    width: 80%;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.backcolo {
+    background-color: #fceae8;
+}
+
+.btn {
+    padding: 10px 15px;
+    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+
+.cata {
+    background-color: rgb(11, 207, 158);
+    margin: 0px 5px;
+    border-radius: 15px;
+}
+
+.cata2 {
+    background-color: rgb(111, 192, 123);
+    margin: 0px 5px;
+    border-radius: 15px;
+}
+
+.cata3 {
+    background-color: rgb(27, 172, 22);
+    margin: 0px 5px;
+    border-radius: 15px;
+}
+
+.shoes {
+    padding: 10px 5px;
+    background-color: white;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 15px;
+}
+
+.shoes div {
+    padding: 0px 20px;
+}
+
+.card-footer {
+    background-color: #fff;
+    border-top: none;
+}
+
+.card {
+    box-shadow: 5px 5px 10px gray;
+}
+
+#footer {
+    background-color: #fceae8;
+}
+
+.nice {
+    height: 300px;
+}
